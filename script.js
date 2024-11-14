@@ -1,4 +1,4 @@
-let option = ''
+let option = ``
  // o projeto deve contar sobre posiçoes,regras e quantidade de jogadores.
 const handball = {}
  do {
